@@ -1,4 +1,5 @@
 ## Welcome to Salma Ayman's website
+![Salma](../assets/images/IMG_4280 (2).jpg)
 
 * Name:**Salma Ayman**
 * Year of birth: **1998**
