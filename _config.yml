@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", , "dir
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Refaey-San"
+title                    : "Salma's website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Abdullah Alrefaey"
-description              : "An amazing website."
-url                      : #"https://abdullah-alrefaey.github.io" # the base hostname & protocol for your site e.g. 
+name                     : "Salma Ayman"
+description              : "My website"
+url                      : #"https://Salma-Ayman.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : #"/blog" # the subpath of your site, e.g. 
 repository               : #"abdullah-alrefaey/abdullah-alrefaey.github.io" # GitHub username/repo-name e.g. 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo_90x90.jpg" # path of logo image to display in the masthead, e.g. 
+logo                     : "/" # path of logo image to display in the masthead, e.g. 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 linkedin: 
-  username               : https://www.linkedin.com/in/abdullah-alrefaey/
+  username               : https://www.linkedin.com/in/salma-ayman-455493162/
 facebook: 
-  username               : https://www.facebook.com/abdullah.m.alrefaey
+  username               : https://www.facebook.com/salma.ayman.9998
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,34 +107,34 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abdullah Mohammed"
+  name             : "Salma Ayman"
   avatar           : "/assets/images/bio-photo.png"
   bio              : "Systems & Biomedical Engineering Student at Cairo University"
-  location         : "Giza, Egypt"
+  location         : "Helwan,Cairo"
   email            : "abdullah.m.alrefaey@gmail.com"
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://www.linkedin.com/in/abdullah-alrefaey/"
+      url: "https://www.linkedin.com/in/salma-ayman-455493162/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/abdullah.m.alrefaey"
+      url: "https://www.facebook.com/salma.ayman.9998"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Abdullah-Alrefaey"
+      url: "https://github.com/Salma-Ayman9"
 
 # Site Footer
 footer:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://www.linkedin.com/in/abdullah-alrefaey/"
+      url: "https://www.linkedin.com/in/salma-ayman-455493162/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/abdullah.m.alrefaey"
+      url: "https://www.facebook.com/salma.ayman.9998"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Abdullah-Alrefaey"
+      url: "https://github.com/Salma-Ayman9"
 
 
 # Reading Files
