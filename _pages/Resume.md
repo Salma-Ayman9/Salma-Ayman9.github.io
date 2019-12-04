@@ -1,29 +1,31 @@
-# My Resume
+## Welcome to Salma Ayman's website
 
-<img src="../assets/images/Profile.png" alt="Abdullah-Alrefaey" width="250"/>
+* Name:**Salma Ayman**
+* Year of birth: **1998**
+* [GitHub](https://github.com/Salma-Ayman9)
 
-* Name: Abdullah Mohammed Alrefaey
-* Year of Birth: 1999
-* E-mail: abdullah.m.alrefaey@gmail.com
-* [Github](https://github.com/Abdullah-Alrefaey)
 
 ## Interests
 
-* Anime & Reading about technology
-* Programming
+* Reading
+* Watching Football and Tennis
+* Watching English series and Anime
+* Learning new programming languages
 
-## Work Experience
+## Work experience
 
-* Representative of SBME Class 2021
-* Former Information Technology Member at BEAT
-* Former Internal Public Relation Member at K-Vector Foundation
+* Marketing member at IEEE CUSB, 2017-2018
+* PR member at K Vector Foundation, 2018-2019
 
 ## Education
 
-* Systems and Biomedical Engineering at **Cairo University**
+* **Cairo University**, Faculty of Engineerin, Systems and Biomedical Engineering 2021
 
 ## Skills
-* C and C++
-* HTML, CSS, Bootstrap and Nodejs
-* Public Relation and Negotiation.
-* Leadership
+
+* Marketing
+* Negotiation
+* C++
+* Html
+* CSS
+
