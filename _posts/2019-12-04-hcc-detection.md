@@ -40,20 +40,20 @@ We apply these classifiers:
 ## The reasons we apply these classifiers:
 1. Logistic Regression Classifier
 
-<img align="center" width="300" height="300" src=../assets/images/log.png>
+<img align="center" width="600" height="300" src=../assets/images/log.png>
 
 Logistic regression performs binary classification. It measures the relationship between the categorical dependent variable and one or more independent variables by estimating probabilities using a logistic/sigmoid function.It uses a black box function to conclude the relation between the categorical dependent variable and the independent variables.The dependent variable is our target to predict.
 
 2. Naive Bayes Classifier
 
-<img align="center" width="300" height="300" src=../assets/images/bayes.png>
+<img align="center" width="600" height="300" src=../assets/images/bayes.png>
 
 Naive Bayes is a probabilistic machine learning algorithm that can be used in a wide variety of classification tasks. The name naive is used because it assumes the features that go into the model is independent of each other. That is changing the value of one feature, does not directly influence or change the value of any of the other features used in the algorithm. Naive Bayes is very easy to build and particularly useful for very large data sets. Naive Bayes classifier will converge quicker than discriminative models like logistic regression, so we will need less training data.
 
 3. K-NN Classifier
 It’s a supervised machine learning algorithm. The KNN algorithm assumes that similar things exist in close proximity. In other words, similar things are near to each other.
 
-<img align="center" width="300" height="300" src=../assets/images/knn.pn
+<img align="center" width="600" height="300" src=../assets/images/knn.png>
 
 We can see in the image above that similar data are close to each other. The KNN algorithm depends on this assumption being true enough for the algorithm to be useful. KNN captures the idea of closeness with some mathematics we can calculat the distance between points on a graph.
 	
