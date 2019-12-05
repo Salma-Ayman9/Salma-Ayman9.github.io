@@ -30,7 +30,7 @@ Performance status, Encephalopathy, Ascites, INR, AFP,
 Hemoglobin, MCV, Leukocytes, Platelets, Albumin, Total
 Bil, ALT, AST, GGT, ALP, TP, Creatinine, Number of nodules, Major dimension, Dir. bil, Iron, Sat and Ferritin.
 
-## Data Pre-processing 
+# Data Pre-processing 
 * Real data is often incomplete. We solve the problem
 of missing data by replace it with mean or median.
 * Real data often contain categorical values we should
@@ -38,9 +38,9 @@ encode them and we may use dummy variables if we
 have more than two category.
 * feature scaling: most of real data are different in
 range.to solve this problem we have two methods. normalization and standardization
-# Data before processing
+## Data before processing
 
-# Data after processing
+## Data after processing
 
 # Methodology
 We apply these classifiers:
