@@ -72,9 +72,15 @@ We can see in the image above that similar data are close to each other. The KNN
 
 ## Logistic Regression
 
-## Naive 
+<img text-align="center" width="600" height="300" src="../assets/images/Logistic_Regression_accuracy.png">
+
+## Naive
+
+<img text-align="center" width="600" height="300" src="../assets/images/NaiveBayes_accuracy.png">
 
 ## KNN
+
+<img text-align="center" width="600" height="300" src="../assets/images/Knn_accuracy.png">
 
 We used K-fold cross validatin for evaluation. Naive Bayes is the most accurate as the assumption of the independence of the data set is true in our case. 
 	
