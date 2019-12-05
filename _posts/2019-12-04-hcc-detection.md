@@ -52,6 +52,7 @@ Logistic regression performs binary classification. It measures the relationship
 Naive Bayes is a probabilistic machine learning algorithm that can be used in a wide variety of classification tasks. The name naive is used because it assumes the features that go into the model is independent of each other. That is changing the value of one feature, does not directly influence or change the value of any of the other features used in the algorithm. Naive Bayes is very easy to build and particularly useful for very large data sets. Naive Bayes classifier will converge quicker than discriminative models like logistic regression, so we will need less training data.
 
 **3. K-NN Classifier**
+
 It’s a supervised machine learning algorithm. The KNN algorithm assumes that similar things exist in close proximity. In other words, similar things are near to each other.
 
 <img align="center" width="600" height="300" src="../assets/images/knn.png">
