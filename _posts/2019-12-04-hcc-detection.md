@@ -72,9 +72,9 @@ We can see in the image above that similar data are close to each other. The KNN
 
 ## Logistic Regression
 
-## Naive Bayes
+## Naive 
 
 ## KNN
 
-Naive Bayes is the most accurate as the assumption of the independence of the data set is true in our case. 
+We used K-fold cross validatin for evaluation. Naive Bayes is the most accurate as the assumption of the independence of the data set is true in our case. 
 	
