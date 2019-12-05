@@ -19,10 +19,11 @@ Hepatocellular Carcinoma Dataset (HCC dataset) was collected at a University Hos
 * **Selected according to:** The EASL-EORTC (European Association for the Study of the Liver - European Organization for Research and Treatment of Cancer) Clinical Practice Guidelines, which are the current state-of-the-art on the management of HCC. 
 * **Attributes Characteristics:** Categorical, Integer and
 Real.
-* **Missing Data:** Yes. This is a heterogeneous dataset, with 23 quantitative
+* **Missing Data:** Yes. 
+* This is a heterogeneous dataset, with 23 quantitative
 variables, and 26 qualitative variables. The missing data represents 10.22% of the whole dataset and only eight patients have complete information in all fields (4.85%). The target variables are the survival at 1 year, and was encoded as a binary variable: 0 (dies) and 1 (lives). A certain degree of class-imbalance is
 also present (63 cases labeled as “dies” and 102 as “lives”).
-These are our  attributes 
+* These are our  attributes: 
 Gender, Symptoms, Alcohol, HBsAg, HBeAg, HBcAb, HCVAb, Cirrhosis, Endemic countries, Smoking,
 Diabetes, Obesity, Hemochromatosis, AHT, CRI, HIV,
 NASH, Esophageal varices, Splenomegaly, Portal hypertension, Portal vein thrombosis, Liver metastasis, Radiological, hallmark, Age at diagnosis, Grams/day, Packs/year,
