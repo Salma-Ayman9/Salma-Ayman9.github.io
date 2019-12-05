@@ -39,9 +39,6 @@ encode them and we may use dummy variables if we
 have more than two category.
 * feature scaling: most of real data are different in
 range.to solve this problem we have two methods. normalization and standardization
-## Data before processing
-
-## Data after processing
 
 # Methodology
 We apply these classifiers:
@@ -84,4 +81,5 @@ We can see in the image above that similar data are close to each other. The KNN
 <img text-align="center" width="600" height="300" src="../assets/images/Knn_accuracy.png">
 
 We used K-fold cross validatin for evaluation. Logistic Regression is the most accurate model in our case. 
+This is the link of our code: https://github.com/sbme-tutorials/sbe304-fall19-project-sbe304-2021-team13
 	
