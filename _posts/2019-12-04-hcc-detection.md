@@ -40,7 +40,7 @@ We apply these classifiers:
 ## The reasons we apply these classifiers:
 1. Logistic Regression Classifier
 
-<img align="center" width="600" height="300" src=../assets/images/log.png>
+<img align="center" width="600" height="300" src="../assets/images/log.png">
 
 Logistic regression performs binary classification. It measures the relationship between the categorical dependent variable and one or more independent variables by estimating probabilities using a logistic/sigmoid function.It uses a black box function to conclude the relation between the categorical dependent variable and the independent variables.The dependent variable is our target to predict.
 
